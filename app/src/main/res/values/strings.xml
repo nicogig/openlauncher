@@ -8,6 +8,7 @@
 
     <!-- Edit Mode -->
 
+    <string name="edit">Edit</string>
     <string name="info">Info</string>
     <string name="uninstall">Uninstall</string>
     <string name="add_widget">Widget</string>
@@ -15,7 +16,7 @@
 
     <!-- Toasts -->
 
-    <string name="toast_rename">Rename</string>
+    <string name="edit_item">Edit Item</string>
     <string name="toast_notenoughspace">Not enough space</string>
     <string name="toast_appuninstalled">This app has uninstalled.</string>
     <string name="toast_freeram" formatted="false">Free Memory: %d mb saved %d mb</string>
